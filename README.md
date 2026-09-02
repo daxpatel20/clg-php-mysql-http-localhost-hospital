@@ -1,3 +1,5 @@
+download xampp = https://www.apachefriends.org/download.html
+
 live link = http://localhost/hospital-management-system-modern/patient/dashboard.php
           = http://localhost/hospital-management-system-modern
           = http://localhost/hospital-management-system-modern/patient/login.php
