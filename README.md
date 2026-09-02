@@ -1,3 +1,7 @@
+live link = http://localhost/hospital-management-system-modern/patient/dashboard.php
+          = http://localhost/hospital-management-system-modern
+          = http://localhost/hospital-management-system-modern/patient/login.php
+
 # MediCore Hospital Management System
 Modern PHP + MySQL Hospital Management System.
 
