@@ -1,0 +1,6 @@
+<footer class="public-footer"><div class="container py-5"><div class="row g-4">
+<div class="col-lg-5"><div class="footer-brand"><span class="logo-mark"><i class="fa-solid fa-heart-pulse"></i></span><div><strong>MediCore</strong><small>Hospital & Care</small></div></div><p class="mt-3">Modern, compassionate healthcare with a private patient portal for appointment booking and confirmation tracking.</p></div>
+<div class="col-6 col-lg-3"><h6>Patient Access</h6><a href="/hospital-management-system-modern/index.php">Home</a><a href="/hospital-management-system-modern/patient/login.php">Patient Login</a><a href="/hospital-management-system-modern/patient/register.php">Create Account</a></div>
+<div class="col-lg-4"><h6>Contact</h6><p><i class="fa-solid fa-location-dot me-2"></i>Hospital Road, Surat, Gujarat</p><p><i class="fa-solid fa-phone me-2"></i>+91 98765 43210</p><p><i class="fa-regular fa-envelope me-2"></i>care@medicore.local</p></div>
+</div></div><div class="footer-bottom"><div class="container d-flex justify-content-between gap-2 flex-wrap"><span>© <?= date('Y') ?> MediCore Hospital.</span><span>Secure Patient Portal · PHP & MySQL</span></div></div></footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script><script src="/hospital-management-system-modern/assets/js/public.js"></script></body></html>

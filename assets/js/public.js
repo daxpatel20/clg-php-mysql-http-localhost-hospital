@@ -1,0 +1,1 @@
+document.querySelectorAll('.counter').forEach(el=>{const target=Number(el.dataset.target||0);let n=0;const step=Math.max(1,Math.ceil(target/60));const run=()=>{n=Math.min(target,n+step);el.textContent=n.toLocaleString()+(el.dataset.suffix||'');if(n<target)requestAnimationFrame(run)};run();});
